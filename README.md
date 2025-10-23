@@ -30,8 +30,11 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+![51](https://github.com/user-attachments/assets/92d18f20-3108-496e-a628-2d4ca8df75e4)
+![zener](https://github.com/user-attachments/assets/8c19fe5e-8078-4290-a7e2-1bea6e3db032)
 
 V-I & REGULATION CHARACTERISTICS:
+![52](https://github.com/user-attachments/assets/a7704313-b5c5-4399-bdef-eee1b37952c7)
 
 PRECAUTIONS:
 
